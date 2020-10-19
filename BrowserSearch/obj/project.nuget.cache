@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LANAkP4eIGfJo0kafe0m+QO+jVNKM873ivk5w/x45kV2Dd2rN1jkLGg2znhBXs++8oECzc4p1Dj4BYduecaSJg==",
+  "success": true,
+  "projectFilePath": "D:\\New folder\\BrowserSearch\\BrowserSearch\\SearchEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rajender\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,96 @@
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.exe
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.deps.json
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.runtimeconfig.json
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.runtimeconfig.dev.json
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.dll
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.pdb
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.GenerateResource.cache
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.AssemblyInfoInputs.cache
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.AssemblyInfo.cs
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.RazorTargetAssemblyInfo.cache
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\staticwebassets\SearchEngine.StaticWebAssets.Manifest.cache
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\staticwebassets\SearchEngine.StaticWebAssets.xml
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.dll
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.pdb
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.genruntimeconfig.cache
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csprojAssemblyReference.cache
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.Properties.Resources.resources
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.MvcApplicationPartsAssemblyInfo.cache
+C:\Learning\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.CopyComplete
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csprojAssemblyReference.cache
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.Properties.Resources.resources
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.GenerateResource.cache
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.AssemblyInfoInputs.cache
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.AssemblyInfo.cs
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.CoreCompileInputs.cache
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.MvcApplicationPartsAssemblyInfo.cache
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.dll
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.pdb
+D:\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\appsettings.json
+D:\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.exe
+D:\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.deps.json
+D:\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.runtimeconfig.json
+D:\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.runtimeconfig.dev.json
+D:\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.dll
+D:\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.pdb
+D:\BrowserSearch\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.RazorTargetAssemblyInfo.cache
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.CopyComplete
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\staticwebassets\SearchEngine.StaticWebAssets.Manifest.cache
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\staticwebassets\SearchEngine.StaticWebAssets.xml
+D:\BrowserSearch\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.genruntimeconfig.cache
+C:\Learning\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Learning\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Learning\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Learning\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.exe
+C:\Learning\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.deps.json
+C:\Learning\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.runtimeconfig.json
+C:\Learning\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.runtimeconfig.dev.json
+C:\Learning\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.dll
+C:\Learning\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.pdb
+C:\Learning\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csprojAssemblyReference.cache
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.Properties.Resources.resources
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.GenerateResource.cache
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.AssemblyInfoInputs.cache
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.AssemblyInfo.cs
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.MvcApplicationPartsAssemblyInfo.cache
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.RazorTargetAssemblyInfo.cache
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.CopyComplete
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\staticwebassets\SearchEngine.StaticWebAssets.Manifest.cache
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\staticwebassets\SearchEngine.StaticWebAssets.xml
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.dll
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.pdb
+C:\Learning\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.genruntimeconfig.cache
+D:\New folder\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\New folder\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.exe
+D:\New folder\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.deps.json
+D:\New folder\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.runtimeconfig.json
+D:\New folder\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.runtimeconfig.dev.json
+D:\New folder\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.dll
+D:\New folder\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\SearchEngine.pdb
+D:\New folder\BrowserSearch\BrowserSearch\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.Properties.Resources.resources
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.GenerateResource.cache
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.AssemblyInfoInputs.cache
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.AssemblyInfo.cs
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.CoreCompileInputs.cache
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.RazorTargetAssemblyInfo.cache
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csproj.CopyComplete
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\staticwebassets\SearchEngine.StaticWebAssets.Manifest.cache
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\staticwebassets\SearchEngine.StaticWebAssets.xml
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.dll
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.pdb
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.genruntimeconfig.cache
+D:\New folder\BrowserSearch\BrowserSearch\obj\Debug\netcoreapp3.1\SearchEngine.csprojAssemblyReference.cache
