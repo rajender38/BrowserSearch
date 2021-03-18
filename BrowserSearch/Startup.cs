@@ -1,16 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using SearchEngine.Helpers;
+using SearchEngine.ServiceLayers;
 using SearchEngine.Interfaces;
 
 namespace BrowserSearch
@@ -30,7 +24,13 @@ namespace BrowserSearch
             services.AddCors();
             services.AddControllers();
             services.AddScoped<IWebPost, WebPost>();
-            services.AddScoped<IregExHtmlString, RegExHtmlString>();
+            services.AddScoped<IRegExHtmlString, RegExHtmlString>();
+            services.AddScoped<IProcessSearchEngineRequest, ProcessSearchEngineRequest>();
+            services.TryAddEnumerable(new[] {
+                ServiceDescriptor.Scoped<ISearchEngine,GoogleEngine>(),
+                ServiceDescriptor.Scoped<ISearchEngine,BingEngine>()
+            });
+            services.AddControllers().AddNewtonsoftJson();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

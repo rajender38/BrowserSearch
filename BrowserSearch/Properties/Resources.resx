@@ -118,15 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bing" xml:space="preserve">
-    <value>https://www.bing.com/search?q={0}&amp;first={1}</value>
-  </data>
-  <data name="BingStaticPage" xml:space="preserve">
     <value>https://infotrack-tests.infotrack.com.au/Bing/Page{0}.html</value>
   </data>
   <data name="Google" xml:space="preserve">
-    <value>https://www.google.com/search?q={0}&amp;start={1}</value>
-  </data>
-  <data name="GoogleStaticPage" xml:space="preserve">
     <value>https://infotrack-tests.infotrack.com.au/Google/Page{0}.html</value>
   </data>
   <data name="MaxItems" xml:space="preserve">

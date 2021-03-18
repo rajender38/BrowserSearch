@@ -61,7 +61,7 @@ namespace SearchEngine.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to https://www.bing.com/search?q={0}&amp;first={1}.
+        ///   Looks up a localized string similar to https://infotrack-tests.infotrack.com.au/Bing/Page{0}.html.
         /// </summary>
         internal static string Bing {
             get {
@@ -70,29 +70,11 @@ namespace SearchEngine.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to https://infotrack-tests.infotrack.com.au/Bing/Page{0}.html.
-        /// </summary>
-        internal static string BingStaticPage {
-            get {
-                return ResourceManager.GetString("BingStaticPage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to https://www.google.com/search?q={0}&amp;start={1}.
+        ///   Looks up a localized string similar to https://infotrack-tests.infotrack.com.au/Google/Page{0}.html.
         /// </summary>
         internal static string Google {
             get {
                 return ResourceManager.GetString("Google", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to https://infotrack-tests.infotrack.com.au/Google/Page{0}.html.
-        /// </summary>
-        internal static string GoogleStaticPage {
-            get {
-                return ResourceManager.GetString("GoogleStaticPage", resourceCulture);
             }
         }
         

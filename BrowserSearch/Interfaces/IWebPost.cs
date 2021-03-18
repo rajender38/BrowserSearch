@@ -1,13 +1,9 @@
-﻿using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using SearchEngine.RequestInput;
 
 namespace SearchEngine.Interfaces
 {
     public interface IWebPost
     {
-        public string GetHtmlResponse(string url,ISearchInput searchInput);
+        public string GetHtmlResponse(string url, SearchInput searchInput);
     }
 }
