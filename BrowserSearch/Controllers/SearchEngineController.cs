@@ -26,8 +26,8 @@ namespace SearchEngine.Controllers
         {
             try
             {
-                string result = await Task.FromResult(iProcessSearchEngineRequest.Process(searchInput));
-                return Ok(result);
+                string searchResult = await Task.FromResult(iProcessSearchEngineRequest.Process(searchInput));
+                return Ok(searchResult);
             }
             catch (Exception ex)
             {

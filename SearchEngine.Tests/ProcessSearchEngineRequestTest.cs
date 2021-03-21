@@ -23,7 +23,7 @@ namespace SearchEngine.Tests
                 "GoogleEngine");
             var iProcessSearchEngineRequest = _services.GetRequiredService<IProcessSearchEngineRequest>();
             var sut = iProcessSearchEngineRequest.Process(searchInput);
-            Assert.Equal("1, 11, 21, 31, 41, 51, 61, 71, 81, 91, ", sut.ToString());
+            Assert.Equal("1, 11, 21, 31, 41, 51, 61, 71, 81, 91", sut.ToString());
         }
 
         [Fact]
@@ -35,7 +35,7 @@ namespace SearchEngine.Tests
                 "BingEngine");
             var iProcessSearchEngineRequest = _services.GetRequiredService<IProcessSearchEngineRequest>();
             var sut = iProcessSearchEngineRequest.Process(searchInput);
-            Assert.Equal("", sut.ToString());
+            Assert.Equal("0", sut.ToString());
         }
 
     }

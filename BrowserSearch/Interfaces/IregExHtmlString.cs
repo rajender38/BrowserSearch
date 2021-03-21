@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Text;
 
 namespace SearchEngine.Interfaces
 {
     public interface IRegExHtmlString
     {
-        public Tuple<string, int> FindTextAndGetResult(string htmlString, string findUrl, string regExSearch, int increment, string result);
+        public Tuple<StringBuilder, int> FindTextAndGetResult(string htmlString, string findUrl, string regExSearch, int matchResultCount, StringBuilder result);
     }
 }

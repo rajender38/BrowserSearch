@@ -1,5 +1,6 @@
 ﻿using SearchEngine.Interfaces;
 using System;
+using System.Text;
 using System.Text.RegularExpressions;
 
 
@@ -8,7 +9,7 @@ namespace SearchEngine.ServiceLayers
     public class RegExHtmlString : IRegExHtmlString
     {
 
-        public Tuple<string, int> FindTextAndGetResult(string htmlString, string findUrl, string regExSearch, int increment, string result)
+        public Tuple<StringBuilder, int> FindTextAndGetResult(string htmlString, string findUrl, string regExSearch, int matchResultCount, StringBuilder searchResult)
         {
             RegexOptions options = RegexOptions.IgnoreCase | RegexOptions.Singleline;
             Regex regx = new Regex(@"(?is)<body(?:\s[^>]*)>(.*?)(?:</\s*body\s*>|</\s*html\s*>|$)", options);
@@ -22,15 +23,15 @@ namespace SearchEngine.ServiceLayers
                 {
                     foreach (Match m in matches)
                     {
-                        increment++;
+                        matchResultCount++;
                         if (m.Value.Contains(findUrl))
                         {
-                            result += Convert.ToString(increment) + ", ";
+                            searchResult.Append(Convert.ToString(matchResultCount) + ", ");
                         }
                     }
                 }
             }
-            return new Tuple<string, int>(result, increment);
+            return new Tuple<StringBuilder, int>(searchResult, matchResultCount);
         }
     }
 }
