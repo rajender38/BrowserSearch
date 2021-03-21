@@ -34,7 +34,7 @@ namespace SearchEngine.ServiceLayers
                         result = searchEngine.ScrapBrowser();
                     }
                 }
-                return result;
+                return result==string.Empty? "Results are empty, please try again with different search.":result;
             }
             catch (Exception ex)
             {

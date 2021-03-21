@@ -23,10 +23,10 @@ namespace SearchEngine.ServiceLayers
         {
             try
             {
-                string searchEngineUrl = Resources.Google;
-                int maxItems = Convert.ToInt32(Resources.StaticPages);
-                int increment = 0;
-                string result = string.Empty;
+                var searchEngineUrl = Resources.Google;
+                var maxItems = Convert.ToInt32(Resources.StaticPages);
+                var increment = 0;
+                var result = string.Empty;
                 for (int pageSize = 1; pageSize <= maxItems; pageSize = pageSize + 1)
                 {
                     searchEngineUrl = string.Format(searchEngineUrl, pageSize.ToString("D2"));
